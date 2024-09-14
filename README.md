@@ -1,5 +1,8 @@
 # RollerMadness - Angry Birds Edition
 
+
+![Game Screenshot](./screenshot.PNG)
+
 Welcome to RollerMadness - Angry Birds Edition, a 3D game developed in Unity3D as part of my journey into game development. This project serves as my first major training assignment and demonstrates the skills I have learned in Unity and game development.
 
 In this game, the player takes control of a rolling ball, navigating through levels while collecting coins and avoiding Angry Birds-style characters. Collect the required amount of coins to advance to the next level—while ensuring you evade the angry birds chasing you!
