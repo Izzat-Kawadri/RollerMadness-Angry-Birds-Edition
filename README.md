@@ -59,6 +59,5 @@ This project is heavily inspired by a course project I followed on Coursera. A b
 
 - **Course**: Introduction to Game Development by [Brian M. Winn] on Coursera
 - **Developer**: [Izzat Kawadri]
-
----
+  
 Thank you for checking out my project! I hope you enjoy playing RollerMadness - Angry Birds Edition. If you have any feedback or suggestions, feel free to reach out.
