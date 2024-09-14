@@ -1,6 +1,6 @@
 # RollerMadness - Angry Birds Edition
 
-Welcome to **RollerMadness - Angry Birds Edition**, a 3D game developed in Unity3D as part of my journey into game development. This project serves as my first major training assignment and demonstrates the skills I have learned in Unity and game development.
+Welcome to RollerMadness - Angry Birds Edition, a 3D game developed in Unity3D as part of my journey into game development. This project serves as my first major training assignment and demonstrates the skills I have learned in Unity and game development.
 
 In this game, the player takes control of a rolling ball, navigating through levels while collecting coins and avoiding Angry Birds-style characters. Collect the required amount of coins to advance to the next level—while ensuring you evade the angry birds chasing you!
 
@@ -18,7 +18,7 @@ In this game, the player takes control of a rolling ball, navigating through lev
 
 ## Game Overview
 
-**RollerMadness - Angry Birds Edition** is a physics-based 3D game that combines elements of platforming, strategy, and fast-paced action. It focuses on player control and reflexes as you roll through various levels, each with its own challenges and obstacles. The game is designed to enhance my knowledge of Unity3D and showcases my understanding of game mechanics, physics simulation, level design, and basic AI.
+RollerMadness - Angry Birds Edition is a physics-based 3D game that combines elements of platforming, strategy, and fast-paced action. It focuses on player control and reflexes as you roll through various levels, each with its own challenges and obstacles. The game is designed to enhance my knowledge of Unity3D and showcases my understanding of game mechanics, physics simulation, level design, and basic AI.
 
 ---
 
@@ -45,9 +45,10 @@ In this game, the player takes control of a rolling ball, navigating through lev
 ## Run the Game
 
 1. **Game Test**:
-   to test the game please visit this link :
+if you want to test the game please visit this link :
  https://izzat-kawadri.github.io/RollerMadness-Angry-Birds-Edition/
 
+---
 
 ## Credits
 
@@ -56,4 +57,5 @@ This project is heavily inspired by a course project I followed on Coursera. A b
 - **Course**: Introduction to Game Development by [Brian M. Winn] on Coursera
 - **Developer**: [Izzat Kawadri]
 
+---
 Thank you for checking out my project! I hope you enjoy playing RollerMadness - Angry Birds Edition. If you have any feedback or suggestions, feel free to reach out.
